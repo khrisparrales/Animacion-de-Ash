@@ -1,0 +1,15 @@
+C:\Users\CELERON\Documents\SharpDevelop Projects\dibujo\dibujo\bin\Debug\dibujo.exe
+C:\Users\CELERON\Documents\SharpDevelop Projects\dibujo\dibujo\bin\Debug\dibujo.pdb
+C:\Users\CELERON\Documents\SharpDevelop Projects\dibujo\dibujo\obj\Debug\dibujo.csprojResolveAssemblyReference.cache
+C:\Users\CELERON\Documents\SharpDevelop Projects\dibujo\dibujo\obj\Debug\dibujo.exe
+C:\Users\CELERON\Documents\SharpDevelop Projects\dibujo\dibujo\obj\Debug\dibujo.pdb
+G:\SharpDevelop Projects\dibujo\dibujo\bin\Debug\dibujo.exe
+G:\SharpDevelop Projects\dibujo\dibujo\bin\Debug\dibujo.pdb
+G:\SharpDevelop Projects\dibujo\dibujo\obj\Debug\dibujo.csprojResolveAssemblyReference.cache
+G:\SharpDevelop Projects\dibujo\dibujo\obj\Debug\dibujo.exe
+G:\SharpDevelop Projects\dibujo\dibujo\obj\Debug\dibujo.pdb
+D:\khrisE\labortorio wf\SharpDevelop Projects\ash\dibujo\bin\Debug\dibujo.exe
+D:\khrisE\labortorio wf\SharpDevelop Projects\ash\dibujo\bin\Debug\dibujo.pdb
+D:\khrisE\labortorio wf\SharpDevelop Projects\ash\dibujo\obj\Debug\dibujo.csprojResolveAssemblyReference.cache
+D:\khrisE\labortorio wf\SharpDevelop Projects\ash\dibujo\obj\Debug\dibujo.exe
+D:\khrisE\labortorio wf\SharpDevelop Projects\ash\dibujo\obj\Debug\dibujo.pdb
